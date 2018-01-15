@@ -1,0 +1,9 @@
+.DS_Store
+.metadata/*
+*.swp
+*~
+spec/myplugin
+spec/plugins
+spec/platforms
+/src/windows/SQLite3-Win-RT/SQLite3/.vs
+/.vs
